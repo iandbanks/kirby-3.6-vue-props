@@ -34,3 +34,7 @@ I duplicated the [simple todo example](https://getkirby.com/releases/3.6#fiber) 
 
 ## Screenshots / Videos
 https://user-images.githubusercontent.com/1829348/151923584-2d4a16ee-08c0-4ccd-856a-83edfc620199.mp4
+
+
+![example-screenshot](https://user-images.githubusercontent.com/1829348/152011810-219c98be-2bb9-4c6d-83bd-b3a692642867.jpg)
+
