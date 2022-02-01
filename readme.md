@@ -21,3 +21,6 @@ You should now see a simple 2 column layout with 2 images.
 ### JSON Object Test
 * Observe the "On Load" top section. This displays the values that are in the `_props` object when the page is loaded / when the component is created.
 * Observe the "On Fetch/XHR" bottom section. This displays the values that are in the `_props` object after the fetch event that clears out the props. 
+
+## Screenshots / Videos
+https://user-images.githubusercontent.com/1829348/151923584-2d4a16ee-08c0-4ccd-856a-83edfc620199.mp4
