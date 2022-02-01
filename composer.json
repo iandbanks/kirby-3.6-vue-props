@@ -1,5 +1,5 @@
 {
-  "name": "fiveq/wsp-sitereports",
+  "name": "iandbanks/kirby-36-vue-props",
   "description": "Plugin that adds Agency Analytics reports to the Kirby CMS Admin Panel",
   "type": "kirby-plugin",
   "require": {
@@ -9,9 +9,8 @@
   "minimum-stability": "stable",
   "authors": [
     {
-      "name": "Nathan Ho",
-      "email": "nathan.ho@fiveq.com",
-      "homepage": "https://fiveq.com"
+      "name": "Ian Banks",
+      "email": "ian.banks@fiveq.com"
     }
   ]
 }

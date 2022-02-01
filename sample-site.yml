@@ -1,0 +1,5 @@
+# Copy the contents of this file to {site-root}/site/blueprints/site.yml
+columns:
+  - width: full
+    sections:
+      imagerandomizer: sections/imagerandomizer
