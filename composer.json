@@ -1,0 +1,17 @@
+{
+  "name": "fiveq/wsp-sitereports",
+  "description": "Plugin that adds Agency Analytics reports to the Kirby CMS Admin Panel",
+  "type": "kirby-plugin",
+  "require": {
+    "getkirby/composer-installer": "^1.2"
+  },
+  "version": "1.0.0",
+  "minimum-stability": "stable",
+  "authors": [
+    {
+      "name": "Nathan Ho",
+      "email": "nathan.ho@fiveq.com",
+      "homepage": "https://fiveq.com"
+    }
+  ]
+}
