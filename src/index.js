@@ -6,7 +6,7 @@ panel.plugin("iandbanks/imagerandomizer", {
   sections:
     {
       "imagerandomizer": imagerandomizer,
-      "todos": todosection
+      "todos": todosection,
     }
 });
 

@@ -3,3 +3,4 @@ columns:
   - width: full
     sections:
       imagerandomizer: sections/imagerandomizer
+      todos: sections/todos

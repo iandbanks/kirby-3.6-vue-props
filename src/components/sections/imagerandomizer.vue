@@ -2,7 +2,7 @@
   <div class="">
     <section>
       <header>
-        <h1 class="test-headline">Image Test</h1>
+        <h1 class="test-headline">Test: Image Test</h1>
       </header>
       <div class="wrapper">
         <div class="image_wrapper">
@@ -22,7 +22,7 @@
     </section>
     <section>
       <header>
-        <h1 class="test-headline">JSON Test</h1>
+        <h1 class="test-headline">Test: JSON Test</h1>
       </header>
       <div class="wrapper columns">
         <div class="column">
